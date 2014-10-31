@@ -1,0 +1,13 @@
+{
+  "author": "wondible",
+  "build": "73939",
+  "context": "server",
+  "date": "2014/10/28",
+  "description": "Metal Extractors produce one metal.",
+  "display_name": "Minimal Mex",
+  "forum": null,
+  "identifier": "com.wondible.pa.minimal_mex",
+  "signature": "not yet implemented",
+  "version": "0.1.0"
+}
+
