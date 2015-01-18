@@ -1,9 +1,9 @@
 {
   "author": "wondible",
-  "build": "76557",
+  "build": "76677",
   "category": ["metal", "mex"],
   "context": "server",
-  "date": "2014/12/28",
+  "date": "2015/01/18",
   "description": "Metal Extractors produce one metal.",
   "display_name": "Minimal Mex",
   "forum": "https://forums.uberent.com/threads/rel-server-minimal-mex.65688/",
