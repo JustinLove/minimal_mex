@@ -1,3 +1,7 @@
+## 1.0.3
+
+- Update for underwater vision
+
 ## 1.0.2
 
 - Update to exploding Jigs from 75539
