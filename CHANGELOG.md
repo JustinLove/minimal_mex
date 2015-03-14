@@ -1,3 +1,7 @@
+## 1.0.4
+
+- Update mex cost and jig spacing
+
 ## 1.0.3
 
 - Update for underwater vision
