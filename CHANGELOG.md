@@ -1,3 +1,7 @@
+## 1.0.5
+
+- Update Jig atrophy rate
+
 ## 1.0.4
 
 - Update mex cost and jig spacing
