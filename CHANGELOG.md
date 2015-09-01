@@ -1,3 +1,8 @@
+## 1.1.0
+
+- Based on titans units, which has negligible impact on mex
+- Base Jig hp was raised, so mod reduces cost instead
+
 ## 1.0.5
 
 - Update Jig atrophy rate

@@ -50,7 +50,7 @@ module.exports = function(grunt) {
       mex: {
         targets: [
           'pa/units/land/metal_extractor/metal_extractor.json',
-          'pa/units/land/metal_extractor_adv/metal_extractor_adv.json'
+          'pa_ex1/units/land/metal_extractor_adv/metal_extractor_adv.json'
         ],
         process: function(spec) {
           spec.build_metal_cost = Math.floor(spec.build_metal_cost / spec.production.metal)
@@ -59,11 +59,11 @@ module.exports = function(grunt) {
       },
       jig: {
         targets: [
-          'pa/units/orbital/mining_platform/mining_platform.json'
+          'pa_ex1/units/orbital/mining_platform/mining_platform.json'
         ],
         process: function(spec) {
+          spec.build_metal_cost = spec.build_metal_cost / 2 + Math.floor(spec.build_metal_cost/2 / spec.production.metal)
           spec.production.metal = 1
-          spec.max_health = 3000
         }
       }
     }
