@@ -1,3 +1,7 @@
+## 1.1.1
+
+- update unit files to 116982, esp Custom58
+
 ## 1.1.0
 
 - Based on titans units, which has negligible impact on mex
